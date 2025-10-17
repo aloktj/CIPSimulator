@@ -1,3 +1,6 @@
 [submodule "import/OpENer"]
 	path = import/OpENer
 	url = https://github.com/EIPStackGroup/OpENer.git
+[submodule "import/EIPScanner"]
+	path = import/EIPScanner
+	url = https://github.com/nimbuscontrols/EIPScanner.git
